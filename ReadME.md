@@ -22,3 +22,11 @@ All `.tif` images represent near-real-time detection maps:
 ## Notes
 
 The provided results are intended to support reproducibility and further research on near-real-time forest disturbance monitoring using Sentinel-1 SAR time series.
+
+
+## License
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
